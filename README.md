@@ -24,6 +24,6 @@ If you want to see my progress at 42 Barcelona you can follow it [here](https://
 
 ## Social media
 
-[![GitHub](img/github.png)](https://github.com/zpalfi42)
+[![GitHub](img/githuub.png)](https://github.com/zpalfi42)
 [![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/zsolt-palfi-751b0922b/)
 [![Instagram](img/instagram.png)](https://www.instagram.com/_zsoltpalfi_/)
