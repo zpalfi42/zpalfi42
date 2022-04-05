@@ -18,6 +18,12 @@ I started studying Electronic engineering in the UPC in Catalonia. But after a y
 
 If you want to see my progress at 42 Barcelona you can follow it [here](https://github.com/zpalfi42/42_Cursus_zpalfi).
 
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42">
+    <img src="https://badge42.vercel.app/api/v2/cl1m0wi80015909joz0fklxrz/stats?cursusId=21&coalitionId=206" alt="zpalfi's 42 stats" />
+  </a>
+</p>
+
 <p align="center"> 
   <img src="./img/42.jpg" />
 </p>
