@@ -22,6 +22,12 @@ If you want to see my progress at 42 Barcelona you can follow it [here](https://
   <a href="https://github.com/JaeSeoKim/badge42">
     <img src="https://badge42.vercel.app/api/v2/cl1m0wi80015909joz0fklxrz/stats?cursusId=21&coalitionId=206" alt="zpalfi's 42 stats" />
   </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=zpalfi42&show_icons=true&theme=chartreuse-dark" />
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpalfi42&layout=compact&theme=chartreuse-dark" />
+  </a>
 </p>
 
 <p align="center"> 
