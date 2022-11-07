@@ -19,19 +19,19 @@ I started studying Electronic engineering in the UPC in Catalonia. But after a y
 If you want to see my progress at 42 Barcelona you can follow it [here](https://github.com/zpalfi42/42_Cursus_zpalfi).
 
 <p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge42.vercel.app/api/v2/cl1m0wi80015909joz0fklxrz/stats?cursusId=21&coalitionId=206" alt="zpalfi's 42 stats" />
+  <a href="https://github.com/JaeSeoKim/badge42" float="left">
+    <img src="https://badge42.vercel.app/api/v2/cl1m0wi80015909joz0fklxrz/stats?cursusId=21&coalitionId=206" alt="zpalfi's 42 stats" width="35%"/>
   </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=zpalfi42&show_icons=true&theme=chartreuse-dark" />
+  <a float="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=zpalfi42&show_icons=true&theme=chartreuse-dark" width="35%"/>
   </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpalfi42&layout=compact&theme=chartreuse-dark" />
+  <a float="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpalfi42&layout=compact&theme=chartreuse-dark" width="29%"/>
   </a>
 </p>
 
 <p align="center"> 
-  <img src="./img/42.jpg" />
+  <img src="./img/42-img.jpg" width="99%" height="500px"/>
 </p>
 
 ## Social media
