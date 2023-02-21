@@ -1,6 +1,6 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, welcome to my GitHub profile!</h1>
 
-Who am I?🤨. Well, I'm Zsolt (or zpalfi), i'm a 19yo boy from Rumania 🇷🇴 currently living in Barcelona 🇪🇸. I love coding and face challenges that'll make my brain fire. I also like music and I play different instruments (Saxophone, Tuba, Trombone).
+Who am I?🤨. Well, I'm Zsolt (or zpalfi), i'm a 20yo guy from Rumania 🇷🇴 currently living in Barcelona 🇪🇸. I love coding and face challenges that'll make my brain fire. I also like music and I play different instruments (Saxophone, Tuba, Trombone).
 
 ## 📖 My academic life
 
